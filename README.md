@@ -1,8 +1,8 @@
 # Diseño de un laberinto para pruebas de micromouse.
 
-NOTA: Este diseño se está probando todavía. Tomar todas las medidas con un espítiu crítico ;-)
+NOTA: Este diseño se está probando todavía. Tomad todas las medidas con un espítiu crítico ;-)
 
-Este repositorio contiene los planos para construir un laberinto reconfigurable para pruebas de micromouse. El diseño está adaptado para la normativa de las competiciones de la OSWHDEM (http://rules.oshwdem.org/labirinto_es) o de Open Robosports (https://github.com/open-robosports/normativa-laberinto).
+Este repositorio contiene los planos para construir un laberinto reconfigurable para pruebas de micromouse. El diseño está adaptado para la normativa de las competiciones como la OSWHDEM (http://rules.oshwdem.org/labirinto_es) o la de Open Robosports (https://github.com/open-robosports/normativa-laberinto).
 
 El laberinto es modular, la base se divide en 3x3 paneles.
 
