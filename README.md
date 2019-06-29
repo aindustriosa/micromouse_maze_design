@@ -13,7 +13,7 @@ Los postes que soportan las paredes están impresos en 3D. El diseño (Freecad +
 
 # Ya tengo las piezas... cómo hago el laberinto?
 Para diseñar un laberinto, se puede usar un software como:
-- ...
+- https://github.com/brico-labs/OshwdemMazes/tree/master/src/MazeGenerator
 
 También puedes utilizar buenos diseños hecho por otros:
 - https://github.com/micromouseonline/mazefiles
