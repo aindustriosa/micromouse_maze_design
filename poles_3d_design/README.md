@@ -11,3 +11,5 @@ Para imprimir los postes, se han usado las siguientes especificaciones:
 - PLA blanco
 - 1 pared
 - Infill de 5%
+
+El fichero anet_A8_6_postes.gcode funciona correctamente con la impresora Anet A8 del local de A Industriosa.
