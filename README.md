@@ -12,10 +12,10 @@ Tanto la base como las paredes están hechas en madera. El diseño de las mismas
 Los postes que soportan las paredes están impresos en 3D. El diseño (Freecad + STLs) está en el directorio ./poles_3d_design
 
 # Ya tengo las piezas... cómo hago el laberinto?
-Para diseñar un laberinto, se puede usar un software como:
+Para diseñar el mapa de un laberinto, se puede usar un software como:
 - https://github.com/brico-labs/OshwdemMazes/tree/master/src/MazeGenerator
 
-También puedes utilizar buenos diseños hecho por otros:
+También puedes utilizar buenos mapas hechos por otros:
 - https://github.com/micromouseonline/mazefiles
 - http://www.tcp4me.com/mmr/mazes/
 
