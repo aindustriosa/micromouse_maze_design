@@ -6,6 +6,8 @@ Los postes están fijados a la base y aguantan las paredes. Hay postes con disti
 
 Los postes se han diseñado usando Freecad. Antes de imprimir, revisar la tolerancia de los agujeros en la base para adecuar la pieza. Puede que sean necesarios un par de intentos para ajustar el valor del radio del cilindro en el poste.
 
+Los postes con la palabra "recortado" en el nombre tienen un rebaje de 1mm en la cara donde tiene ranura. Estos postes se puden usar para controlar los errores acumulados al montar el laberinto.
+
 Para imprimir los postes, se han usado las siguientes especificaciones:
 
 - PLA blanco
@@ -13,3 +15,6 @@ Para imprimir los postes, se han usado las siguientes especificaciones:
 - Infill de 5%
 
 El fichero anet_A8_6_postes.gcode funciona correctamente con la impresora Anet A8 del local de A Industriosa.
+
+Los ficheros con nombre "Prusa" están optimizados para una Prusa MK3.
+
